@@ -1,0 +1,23 @@
+body{
+   color: red;
+
+}
+table{
+    border: 20px solid green;
+    padding:63px;
+   
+    
+}
+.c
+{
+    justify-content: center;
+    align-items: center;
+     display: flex;
+}
+table tr td{
+    justify-content:center;
+    align-items: center;
+}
+h1{
+    float:right;
+}
